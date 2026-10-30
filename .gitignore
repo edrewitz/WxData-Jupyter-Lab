@@ -9,3 +9,5 @@
 *.grib2.idx
 *.grb2.idx
 *.nc.idx
+
+.ipynb_checkpoints
