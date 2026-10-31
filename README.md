@@ -7,7 +7,7 @@
 3) [Downloading the Real-Time Mesoscale Analysis (RTMA)](https://github.com/edrewitz/WxData-Jupyter-Lab/blob/main/Tutorials/rtma.ipynb)
 4) [Downloading the SPC Convective Outlook for CONUS](https://github.com/edrewitz/WxData-Jupyter-Lab/blob/main/Tutorials/spc.ipynb)
 5) [Downloading NWS Maximum Temperature Forecast for Hawaii](https://github.com/edrewitz/WxData-Jupyter-Lab/blob/main/Tutorials/nws_hi.ipynb)
-6) [Downloading the GFS0P25 then performing pixel and line queries on the data](https://github.com/edrewitz/WxData-Jupyter-Lab/blob/main/Tutorials/GFS.ipynb)
+6) [Downloading the GFS0P25 pressure and surface variables then exporting the GRIB2 GFS data to NETCDF and then creating cross-sections across Lake Ontario from the NETCDF Data](https://github.com/edrewitz/WxData-Jupyter-Lab/blob/main/Tutorials/GFS_Cross_Sections.ipynb)
 
 7) [Downloading AIGFS Data](https://github.com/edrewitz/WxData-Jupyter-Lab/blob/main/Tutorials/aigfs.ipynb)
 
@@ -48,6 +48,8 @@
 25) [Download the first 24 hours of the GEPS 850mb Temperature Forecast, find the ensemble mean and plot the GEPS Ensemble Mean 850mb Temperature Forecast](https://github.com/edrewitz/WxData-Jupyter-Lab/blob/main/Tutorials/geps.ipynb)
 
 26) [Use the `cansips_forecast()` and `cansips_hindcast()` clients to download and plot the monthly 500mb Geopotential Height & 850mb Temperature Forecasts & Forecast Anomalies](https://github.com/edrewitz/WxData-Jupyter-Lab/blob/main/Tutorials/cansips.ipynb)
+
+27) [Downloading ECMWF IFS & AIFS 500mb Geopotential Height and plotting the IFS + AIFS Mean 500mb Geopotential Height Across Europe](https://github.com/edrewitz/WxData-Jupyter-Lab/blob/main/Tutorials/ecmwf.ipynb)
 
 ### Advanced Users
 
