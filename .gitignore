@@ -1,13 +1,31 @@
-# GRIB / NetCDF meteorological and oceanographic data files
-*.grib
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Data Files
 *.grib2
 *.grb2
 *.nc
-
-# Optional: compressed or index variants commonly associated with these formats
-*.grib.idx
-*.grib2.idx
-*.grb2.idx
-*.nc.idx
-
-.ipynb_checkpoints
+*.csv
+*.idx
+*.bin
+*.grib
