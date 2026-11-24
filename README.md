@@ -56,3 +56,7 @@
 1) [Using the `client` module to download the latest HadCRUT5 Analysis netCDF file and open this dataset in xarray](https://github.com/edrewitz/WxData-Jupyter-Lab/blob/main/Tutorials/hadcrut5.ipynb)
 
 2) [Downloading the GFS0P25 for temperature fields and using run_external_scripts() to post-process this GFS0P25 dataset in an external Python script](https://github.com/edrewitz/WxData-Jupyter-Lab/blob/main/Tutorials/external_scripts.ipynb)
+
+# WxData Wednesdays Notebooks
+
+1) [Example 1: Download and plot the latest GFS 0.25x0.25 forecast for 500mb Geopotential Height, Absolute Vorticity and Wind](https://github.com/edrewitz/WxData-Jupyter-Lab/blob/main/WxData%20Wednesdays/Example_1.ipynb)
